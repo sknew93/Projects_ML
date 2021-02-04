@@ -1,6 +1,6 @@
 # Projects_ML
 
-# PCA_1
+## PCA_1
 Using PCA create a face recognition system. To
 implement this, you can use LFW_peoples dataset provided in the scikit-learn library. Given
 this dataset, use only those classes that have a minimum (use min_faces_per_person
