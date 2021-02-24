@@ -8,7 +8,7 @@ this dataset, use only those classes that have a minimum (use min_faces_per_pers
 of images, apply PA to obtain the corresponding eigen face for each class. You can
 additionally train a classifier for recognition purpose. 
 
-## 3_EDGEDETECTION
+## 5_EDGEDETECTION
 Using OpenCV, first convert any image with varying ligh condition to a grayscale image. Now
 implement edge detection first using the canny edge detection. Then apply simple thresholding
 and also Adaptive/OTSU thresholding using OpenCV to see the working of each of these
